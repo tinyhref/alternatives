@@ -1,0 +1,20 @@
+{
+  "name": "alternatives",
+  "version": "0.0.0",
+  "description": "Discover top alternatives to anything you know",
+  "keywords": [
+    "alternative",
+    "awesome",
+    "lists",
+    "tinyhref"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "tinyhref.com",
+    "website": "https://tinyhref.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/alternatives"
+  }
+}
