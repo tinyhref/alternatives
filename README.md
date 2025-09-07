@@ -7,9 +7,13 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<h3>Bundler</h3>
+
+<div><img width="16" src="https://esm.sh/public-cdn@1.1.95383-1757243933288/webpack-logo.png" alt="Webpack"/> <a target="_blank" href="https://tinyhref.com/alternatives/webpack">Webpack</a> - A bundler for javascript and friends.</div>
 <h3>Library</h3>
 
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.68955-1757171948700/logo-react.png" alt="ReactJS"/> <a target="_blank" href="https://tinyhref.com/alternatives/react">ReactJS</a> - The library for web and native user interfaces.</div>
+<div><img width="16" src="https://esm.sh/file-cdn-free-dn@1.1.79278-1757244900260/tailwind-logo.png" alt="Tailwind CSS"/> <a target="_blank" href="https://tinyhref.com/alternatives/tailwind">Tailwind CSS</a> - Rapidly build modern websites without ever leaving your HTML.</div>
 <h3>Other</h3>
 
 <div><img width="16" src="https://i.imgur.com/vKddPK2.png" alt="ChatGPT"/> <a target="_blank" href="https://tinyhref.com/alternatives/chatgpt">ChatGPT</a> - Helps you get answers, find inspiration and be more productive.</div>
