@@ -20,3 +20,4 @@
 <div><img width="16" src="https://i.imgur.com/u8dRWfg.png" alt="Notion"/> <a target="_blank" href="https://tinyhref.com/alternatives/notion">Notion</a> - The all-in-one workspace for your notes, tasks, wikis, and databases.</div>
 <div><img width="16" src="https://i.imgur.com/25mnkzJ.png" alt="Figma"/> <a target="_blank" href="https://tinyhref.com/alternatives/figma">Figma</a> - The Collaborative Interface Design Tool.</div>
 <div><img width="16" src="https://i.imgur.com/Bq0Oya2.png" alt="Firebase"/> <a target="_blank" href="https://tinyhref.com/alternatives/firebase">Firebase</a> - Google&#x27;s Mobile and Web App Development Platform.</div>
+<div><img width="16" src="https://i.imgur.com/zuIe6gd.png" alt="shadcn/ui"/> <a target="_blank" href="https://tinyhref.com/alternatives/shadcn-ui">shadcn/ui</a> - Build your component library.</div>
