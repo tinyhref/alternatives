@@ -10,6 +10,9 @@
 <h3>Bundler</h3>
 
 <div><img width="16" src="https://esm.sh/public-cdn@1.1.95383-1757243933288/webpack-logo.png" alt="Webpack"/> <a target="_blank" href="https://tinyhref.com/alternatives/webpack">Webpack</a> - A bundler for javascript and friends.</div>
+<h3>Language</h3>
+
+<div><img width="16" src="https://esm.sh/link-cdn-free-hn@1.1.26243-1757308495914/javascript-logo.png" alt="JavaScript"/> <a target="_blank" href="https://tinyhref.com/alternatives/javascript">JavaScript</a> - The scripting language of the web.</div>
 <h3>Library</h3>
 
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.68955-1757171948700/logo-react.png" alt="ReactJS"/> <a target="_blank" href="https://tinyhref.com/alternatives/react">ReactJS</a> - The library for web and native user interfaces.</div>
