@@ -10,6 +10,9 @@
 <h3>Bundler</h3>
 
 <div><img width="16" src="https://esm.sh/public-cdn@1.1.95383-1757243933288/webpack-logo.png" alt="Webpack"/> <a target="_blank" href="https://tinyhref.com/alternatives/webpack">Webpack</a> - A bundler for javascript and friends.</div>
+<h3>Framework</h3>
+
+<div><img width="16" src="https://i.imgur.com/cAeBStc.png" alt="NextJS"/> <a target="_blank" href="https://tinyhref.com/alternatives/nextjs">NextJS</a> - by Vercel is the full-stack React framework for the web.</div>
 <h3>Language</h3>
 
 <div><img width="16" src="https://esm.sh/link-cdn-free-hn@1.1.26243-1757308495914/javascript-logo.png" alt="JavaScript"/> <a target="_blank" href="https://tinyhref.com/alternatives/javascript">JavaScript</a> - The scripting language of the web.</div>
