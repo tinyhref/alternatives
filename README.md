@@ -22,6 +22,7 @@
 <div><img width="16" src="https://esm.sh/file-cdn-free-dn@1.1.79278-1757244900260/tailwind-logo.png" alt="Tailwind CSS"/> <a target="_blank" href="https://tinyhref.com/alternatives/tailwind">Tailwind CSS</a> - Rapidly build modern websites without ever leaving your HTML.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-vn@1.1.77156-1757379423551/express-logo.png" alt="Express"/> <a target="_blank" href="https://tinyhref.com/alternatives/express">Express</a> - Fast, unopinionated, minimalist web framework for Node.js.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.29718-1757427837670/nodejs-logo.png" alt="NodeJS"/> <a target="_blank" href="https://tinyhref.com/alternatives/nodejs">NodeJS</a> - Run JavaScript Everywhere.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.72133-1757754682843/redux-logo.png" alt="Redux"/> <a target="_blank" href="https://tinyhref.com/alternatives/redux">Redux</a> - A JS library for predictable and maintainable global state management.</div>
 <h3>Other</h3>
 
 <div><img width="16" src="https://i.imgur.com/vKddPK2.png" alt="ChatGPT"/> <a target="_blank" href="https://tinyhref.com/alternatives/chatgpt">ChatGPT</a> - Helps you get answers, find inspiration and be more productive.</div>
