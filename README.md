@@ -31,3 +31,6 @@
 <div><img width="16" src="https://i.imgur.com/25mnkzJ.png" alt="Figma"/> <a target="_blank" href="https://tinyhref.com/alternatives/figma">Figma</a> - The Collaborative Interface Design Tool.</div>
 <div><img width="16" src="https://i.imgur.com/Bq0Oya2.png" alt="Firebase"/> <a target="_blank" href="https://tinyhref.com/alternatives/firebase">Firebase</a> - Google&#x27;s Mobile and Web App Development Platform.</div>
 <div><img width="16" src="https://i.imgur.com/zuIe6gd.png" alt="shadcn/ui"/> <a target="_blank" href="https://tinyhref.com/alternatives/shadcn-ui">shadcn/ui</a> - Build your component library.</div>
+<h3>Tool</h3>
+
+<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.82157-1762080235358/vscode-logo.png" alt="VSCode"/> <a target="_blank" href="https://tinyhref.com/alternatives/vscode">VSCode</a> - The open source AI code editor.</div>
