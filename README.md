@@ -34,3 +34,4 @@
 <h3>Tool</h3>
 
 <div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.82157-1762080235358/vscode-logo.png" alt="VSCode"/> <a target="_blank" href="https://tinyhref.com/alternatives/vscode">VSCode</a> - The open source AI code editor.</div>
+<div><img width="16" src="https://esm.sh/public-cdn-hcm@1.1.67878-1762097593700/chatgpt-atlas-logo.png" alt="ChatGPT Atlas"/> <a target="_blank" href="https://tinyhref.com/alternatives/chatgpt-atlas">ChatGPT Atlas</a> - The browser with ChatGPT built in.</div>
